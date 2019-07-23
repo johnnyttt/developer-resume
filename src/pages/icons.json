@@ -1,0 +1,17 @@
+
+{
+    "code":200,
+    "msg": "请求成功!",
+    "icons": [
+        {
+            "title":"monash",
+            "logo":"./assets/images/monash-university-logo.png",
+            "id":1
+        },
+        {
+            "title":"unimelb",
+            "logo":"./assets/images/uni-of-melbourne-logo.png",
+            "id":2
+        }
+    ]
+}
