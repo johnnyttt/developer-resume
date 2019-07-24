@@ -84,7 +84,7 @@ export default () =>{
 
 
         </section>
-        <section className={ styles.skills }>
+        <section className={ styles.skills } id="skills">
             <div className={ styles.title }>
                 <h3>Skill Set</h3>
             </div>
@@ -190,7 +190,7 @@ export default () =>{
 
 
         {/* 作品列表 */}
-        <section className={ styles.work }>
+        <section className={ styles.work } id="works">
             <div className={ styles.title }>
                 <h3>A selection of work</h3>
             </div>

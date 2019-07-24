@@ -12,7 +12,7 @@
         },
         {
             "title":"OptiSlim Clinical",
-            "brief":"About this website, and what makes it awesome.",
+            "brief":"https://www.optislim.com.au/",
             "tags":[ "Development","React","Next.JS","Sass" ],
             "cover":"/media/images/optislim-logo.png",
             "id":2
@@ -26,7 +26,7 @@
         },
         {
             "title":"OptiVite",
-            "brief":"https://www.optivite.com.au/",
+            "brief":"https://www.optivite.net.au/",
             "tags":[ "Development","Liquid","JavaScript","Sass","HTML5","CSS3" ],
             "cover":"/media/images/optivite-logo.jpg",
             "id":4

@@ -17,7 +17,8 @@ class App extends Component {
                <Link to="/"><div className={styles.boxleft}>JT</div></Link>
                <div className={styles.boxright}>
                   <Link to="/"><p className={ location.pathname==="/" ? styles.selected : null }>HOME</p></Link>
-                  <Link to="/works"><p className={ location.pathname==="/works" ? styles.selected : null } >WORKS</p></Link>
+                  <a href="#skills"><p>SKILLS</p></a>
+                  <a href="#works"><p>WORKS</p></a>
                </div>
             </div>
          </header>
