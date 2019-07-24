@@ -88,13 +88,22 @@
          li{
             width: 13%;            
             margin-bottom: 45px;
-            img{
+            
+            svg{
               justify-content: space-between;
               display: flex;
               max-width: 100%;
-              margin: 10px auto;
-              border: 1px solid #e4e4e4;
-              border-radius: 25px;
+              margin: 10px 15px; 
+              // border: 1px solid #e4e4e4;
+              // border-radius: 25px;
+            }
+            img{
+              justify-content: space-between;
+              display: flex;
+              max-width: 72%;
+              margin: 10px 15px; 
+              // border: 1px solid #e4e4e4;
+              // border-radius: 25px;
             }
         }
       }
