@@ -12,6 +12,9 @@
               display: inline-flex;
               justify-content: space-between;
               .cover{
+                border: 1px solid #f3f3f3;
+                height: 100px;
+
                 img{
                   width: 100px;
                   border-radius: 5px;

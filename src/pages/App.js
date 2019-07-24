@@ -14,7 +14,7 @@ class App extends Component {
          {/* 头部导航 */}
          <header className={styles.header}>
             <div className={styles.box}>
-               <Link to="/"><div className={styles.boxleft}>Vauxlab</div></Link>
+               <Link to="/"><div className={styles.boxleft}>JT</div></Link>
                <div className={styles.boxright}>
                   <Link to="/"><p className={ location.pathname==="/" ? styles.selected : null }>HOME</p></Link>
                   <Link to="/works"><p className={ location.pathname==="/works" ? styles.selected : null } >WORKS</p></Link>
@@ -31,8 +31,8 @@ class App extends Component {
 
          {/* 底部 */}
          <footer className={styles.footer}>
-           <p>© <b>2018 Thijs Koerselman</b></p>
-           <p>Handmade with</p>
+           <p>© <b>2019 Johnny Tian</b></p>
+           <p>Handmade with React</p>
          </footer>
       </div>
     );

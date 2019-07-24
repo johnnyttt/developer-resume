@@ -4,10 +4,15 @@
     width: 70%;
     margin: 0px auto;
     color: rgba(0, 0, 0, 0.7);
+
+    p, h2, h3, h4, h5{
+      padding: 5px 0px;
+      color: rgba(0, 0, 0, 0.7);
+    }
     .brief{
        text-align: center;
        h2{
-         padding: 12px 0px;
+         margin: 12px 0px;
          font-size: 20px;
        }
        img{
@@ -27,11 +32,9 @@
             
          }      
        }
-       p{
-        padding: 12px 0px;
-        color: rgba(0, 0, 0, 0.7);
-      }
+
     }
+    
     .title{
       h3{
         font-size: 30px;
@@ -48,6 +51,19 @@
         text-align: center;
         padding-top: 40px;
         padding-bottom: 25px;
+        ul li a{
+          float: left;
+          padding-left: 20px;
+          div
+          {
+            border-radius: 75px;
+            display: grid;
+            img{
+              margin: auto auto;
+              padding: 2px;
+            }
+          }
+        }
         
     }
     .education{

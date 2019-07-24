@@ -4,52 +4,73 @@
     "msg": "请求成功!",
     "data": [
         {
-            "title":"StaffTraveler",
-            "brief":"A community driven app which allows airline staff to request and share loads information for non-rev flights",
-            "tags":[ "nodejs","react","styled components","google cloud platform","typescript","kubernetes","react native" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover1.jpg",
+            "title":"OptiPharm",
+            "brief":"Site: http://www.optipharm.com/",
+            "tags":[ "Development","React","Kendo UI","HTML5","CSS3","WordPress" ],
+            "cover":"/media/images/optipharm-logo.jpg",
             "id":1
         },
         {
-            "title":"Vauxlab 2017",
+            "title":"OptiSlim Clinical",
             "brief":"About this website, and what makes it awesome.",
-            "tags":[ "react","gatsby","styled components","contentful" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover2.jpg",
+            "tags":[ "Development","React","Next.JS","Sass" ],
+            "cover":"/media/images/optislim-logo.png",
             "id":2
         },
         {
-            "title":"Re:Fuse",
-            "brief":"Fusing reactive programming with audiovisual composition using web technologies",
-            "tags":[ "web audio","nodejs","rx.js" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover3.jpg",
+            "title":"OptiSlim",
+            "brief":"Site: https://www.optislim.com.au/",
+            "tags":[ "Development","Liquid","JavaScript","Sass","HTML5","CSS3" ],
+            "cover":"/media/images/optislim-logo.png",
             "id":3
         },
         {
-            "title":"Kaliber",
-            "brief":"Front-end development for a digital media agency",
-            "tags":[ "postcss","react","redux" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover4.jpg",
+            "title":"OptiVite",
+            "brief":"Site: https://www.optivite.com.au/",
+            "tags":[ "Development","Liquid","JavaScript","Sass","HTML5","CSS3" ],
+            "cover":"/media/images/optivite-logo.jpg",
             "id":4
         },
         {
-            "title":"NLN Live",
-            "brief":"A system for non-linear composition and live performance",
-            "tags":[ "nodejs","react","mongodb" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover5.jpg",
+            "title":"VB Digital",
+            "brief":"Site: https://www.vbtechnologies.com.au/",
+            "tags":[ "Development","React","Kendo UI","HTML5","CSS3","WordPress" ],
+            "cover":"/media/images/react-logo.png",
             "id":5
         },
         {
-            "title":"Coca-Cola Cascada",
-            "brief":"A huge interactive installation with generative graphics, music and sound",
-            "tags":[ "max" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover6.jpg",
+            "title":"AJ Wallpaper",
+            "brief":"Site: https://www.ajwallpaper.com.au/",
+            "tags":[ "Dev & SEO","Liquid","JavaScript","Sass","HTML5","CSS3" ],
+            "cover":"/media/images/ajwallpaper-logo.png",
+            "id":5
+        },
+        {
+            "title":"Discount Toy Co.",
+            "brief":"Site: https://discounttoyco.com.au/ ",
+            "tags":[ "Dev & SEO","PHP ","JavaScript","Magento","HTML5","CSS3" ],
+            "cover":"/media/images/discounttoyco-logo.png",
             "id":6
         },
         {
-            "title":"4D Sound",
-            "brief":"A novel immersive system which allows for evolving changes in three-dimensional positioning of sound.",
-            "tags":[ "max","c/c++" ],
-            "cover":"https://zhtutorial.oss-cn-hangzhou.aliyuncs.com/react/website/cover7.jpg",
+            "title":"The Stable Door",
+            "brief":"Site: http://www.thestabledoor.com.au/",
+            "tags":[ "Dev & SEO","PHP ","JavaScript","Magento","HTML5","CSS3" ],
+            "cover":"/media/images/thestabledoor-logo.png",
+            "id":7
+        },
+        {
+            "title":"Chemist Discount Centre",
+            "brief":"Site: https://www.chemistdiscountcentre.com.au/ ",
+            "tags":[ "SEO ","JavaScript","HTML5","CSS3" ],
+            "cover":"/media/images/chemist-logo.png",
+            "id":7
+        },
+        {
+            "title":"TAFE NSW Western Sydney Institute",
+            "brief":"Site: http://wsi.tafensw.edu.au/",
+            "tags":[ "SEO ","JavaScript","HTML5","CSS3" ],
+            "cover":"/media/images/nsw-tafe-logo.png",
             "id":7
         }
     ]
