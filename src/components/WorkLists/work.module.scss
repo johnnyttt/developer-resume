@@ -11,13 +11,15 @@
             a{
               display: inline-flex;
               justify-content: space-between;
+              float:left;
               .cover{
-                border: 1px solid #f3f3f3;
-                height: 100px;
-
+                display: grid;
                 img{
                   width: 100px;
-                  border-radius: 5px;
+                  padding: 2px;
+                  margin: auto auto;
+                  border: 1px solid #f7f7f7;
+                  border-radius: 10px;
                 }
               }
               .workbrief{
