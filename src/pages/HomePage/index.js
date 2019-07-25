@@ -50,23 +50,23 @@ export default () =>{
                     <li>
                         OptiPharm | https://www.optislim.com.au/ | 2018 - Current <br/> <b>Web Development &amp; Marketing Specialist</b><br/>
                         <ul>
-                            <li>Front End Development using React, Gatsby, NextJs and Material UI & Shopify Development.</li>
-                            <li>Developed a CRM System using React & Kendo UI.</li>
-                            <li>Implement SEO strategy on all websites & Run routine website performance analysis and Conversion Rate Optimization.</li>
+                            <li>Front End Development using React, Gatsby, NextJs and Material UI.</li>
+                            <li>Developed 3 shopify website using Liquid & Timer Framework.</li>
+                            <li>Implement SEO strategy, Email Marketing & Conversion Rate Optimization.</li>
                         </ul>
                     </li>
                     <li>
                         AJ Creative | https://www.ajwallpaper.com.au/ | 2017 - 2018 <br/> <b>Ecommerce Development & SEO Specialist</b><br/>
                         <ul>
-                            <li>Front End Development for landing pages using HTML5, CSS3, React, Bootstrap.</li>
-                            <li>Shopify Website Development using Liquid & Sass.</li>
-                            <li>SEO strategy analysis & website performance analysis & Conversion rate optimization.</li>
+                            <li>Front End Development for landing pages using React, Bootstrap, HTML5, CSS3.</li>
+                            <li>Shopify Website Development using Liquid & Sass etc.</li>
+                            <li>SEO Implementation & Website Performance Analysis & Conversion rate optimization.</li>
                         </ul>                    
                     </li>
                     <li>
                         ROI.com.au | http://www.roi.com.au/ | 2014 - 2016 <br/> <b>Senior SEO & Technical Specialist</b><br/>
                         <ul>
-                            <li>Front End development & implement SEO strategy on different platforms using HTML5, CSS3, jQuery, PHP, RequireJS, React etc.</li>
+                            <li>Front End development & SEO Implementation using HTML5, CSS3, jQuery, PHP, RequireJS, React etc.</li>
                             <li>Analysis ecommerce client’s revenue & traffic data, providing Conversion Rate Optimization plan.</li>
                             <li>Responsible for SEO strategy analysis & website performance analysis for enterprise clients.</li>
                         </ul>                    
